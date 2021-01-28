@@ -7,3 +7,4 @@ def fact(n):
 
 for el in fact(5):
     print(el)
+
