@@ -7,4 +7,3 @@ for el in count(int(first_number)):
         break
     else:
         print(el)
-
